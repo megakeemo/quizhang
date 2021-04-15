@@ -17,7 +17,7 @@ The game consists of two different modes: Endurance and Time Trial
   -	Score multiplier of x3 when 15 consecutive questions are answered correctly.
   -	Score subtraction of 15pts and time deduction of -15 seconds when 5 questions are answered incorrectly.
 
--	Special questions:
+  -	Special questions:
     -	Correctly answered, time increases for 15 seconds and point increase of 250pts.
     -	Incorrectly answered time decreases by 25 seconds.
     -	Skipping Special Questions will not incur a penalty.
@@ -25,6 +25,8 @@ The game consists of two different modes: Endurance and Time Trial
   -	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
   -	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
   -	Share scores to social media (Facebook, Twitter, and Instagram).
+
+
 
 2. Time Trial
   -	There will be no time increases or deductions in this mode and the aim is to have the user answer as many questions as they can within the timeframe.
@@ -39,12 +41,12 @@ The game consists of two different modes: Endurance and Time Trial
   -	Score multiplier of x3 when 10 consecutive questions are answered correctly.
   -	Score divisor of 2pts and time deduction of -15 seconds when 5 questions are answered incorrectly.
 
--	Special Questions:
-  -	Correctly answered, time increases for 15 seconds and time counter slows down 0.5. Point increase of 500pts.
-  -	Incorrectly answered and time decreases by 10 seconds and time counter speeds increases by 1.5.
-  -	Skipping Special Questions will not incur a penalty.
+  -	Special Questions:
+    -	Correctly answered, time increases for 15 seconds and time counter slows down 0.5. Point increase of 500pts.
+    -	Incorrectly answered and time decreases by 10 seconds and time counter speeds increases by 1.5.
+    -	Skipping Special Questions will not incur a penalty.
 
-  -	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
-  -	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
-  -	Share scores to social media (Facebook, Twitter, Instagram).
+    -	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
+    -	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
+    -	Share scores to social media (Facebook, Twitter, Instagram).
 
