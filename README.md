@@ -22,9 +22,9 @@ The game consists of two different modes: Endurance and Time Trial
     -	Incorrectly answered time decreases by 25 seconds.
     -	Skipping Special Questions will not incur a penalty.
 
-  -	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
-  -	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
-  -	Share scores to social media (Facebook, Twitter, and Instagram).
+-	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
+-	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
+-	Share scores to social media (Facebook, Twitter, and Instagram).
 
 
 
@@ -46,7 +46,8 @@ The game consists of two different modes: Endurance and Time Trial
     -	Incorrectly answered and time decreases by 10 seconds and time counter speeds increases by 1.5.
     -	Skipping Special Questions will not incur a penalty.
 
-    -	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
-    -	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
-    -	Share scores to social media (Facebook, Twitter, Instagram).
+
+-	Tally total questions given, and the amounts that were entered correctly and incorrectly and display the result to the user in a tabular format (show on Game Over state).
+-	Display final score to the user and save score to disk for later viewing (show on High Scores state). 
+-	Share scores to social media (Facebook, Twitter, Instagram).
 
