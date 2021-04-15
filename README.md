@@ -2,7 +2,7 @@
 
 QuizHang is a hangman quiz game with time constraints built using the Corona SDK cross platform framework.
 
-The game consists of two different modes: Endurance and Time Trial
+The game consists of two different modes: Endurance and Time Trial.
 
 1. Endurance
   -	Questions will be multiple choice based.
